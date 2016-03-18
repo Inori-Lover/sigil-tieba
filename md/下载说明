@@ -1,4 +1,4 @@
-软体 pan.baidu.com/s/1i3UCCM5 密码: go49
+软体 链接: https://pan.baidu.com/s/1dEeNbax 密码: gix6
 
 软体：
 	1.Reader
@@ -9,26 +9,27 @@
 	  		4.Calibre（Xp系统用户请停留在1.48版本）http://www.calibre-ebook.com/whats-new
 	  		5.BOOK☆WALKER（日文）
 	  	2）Android
-	  		1.DuoKan（安卓2.x用户请停留在 3.0.4 版本）
-	  		2.Gitden（要求安卓4.x以上系统，推荐系统版本>=4.3 的用户使用）
+	  		1.Gitden（要求安卓4.x以上系统，推荐系统版本>=4.3 的用户使用）
 	  	3)Windows Phone & Windows 8(实际并无此文件夹，为Windows商店应用推荐)
 	  		1.Book Bazaar Reader
 
 	2.Builder
-		1）html builder
+		1）editor
 			1.Sublime Text 3
 				1）3059
 				2）3065
+				3）3103
+			2.Atom
+				1） AtomSetup
+				2）AtomSetup Beta
+				3） 历史版本
+			3.VS Code
 		2）epub build
 			1.Sigil（XP用户请停留在0.8.0版本） https://github.com/user-none/Sigil 或者 http://sigil-ebook.com/
-			2.Viewporter　http://viewporter.com/free-download1/
-		3）字体处理
-			1.fontforge-cygwin_2012_08_02 （(pdf)字体提取，编辑)
-			2.fontographer5.1绿色版 （高级字体编辑）
-
+			2.lk虫虫（包含配套推荐使用的Lefe快速生成epub工具）
+		3）字体处理（文件夹已删除，原文件转移到Tools字体处理目录下）
 	3.Tools
 		1）Adobe
-			1.Adobe 2014 CC
 			2.Adobe CC
 				1）Adobe Dreamweaver CC
 				2）InDesign CC
@@ -39,18 +40,17 @@
 				3）Adobe_Photoshop_CC_(64Bit)
 				4）Adobe_Photoshop_CS6_(32Bits)
 			4.Adobe CreativeCloud Cleaner Tool（卸载清理工具）
-		2）BlueStacks（模拟机）
-		3）字体处理
-			1.subfont.exe（来自多看论坛热心网友自制的字体子集化工具）
-			2.FontCreator7.5汉化附注册码（离线激活，字体编辑工具）
-			3.High-Logic_FontCreator_Professional_Edition_8.0.0_build_1200（字体编辑工具）
-			4.FontExpert_2014_12.0（字体查看，管理）
-		4）Color
+		2）字体处理
+			1.FontCreator 字体编辑6.5
+			2.fontforge-cygwin_2012_08_02 （(pdf)字体提取，编辑)
+			3.fontographer5.1绿色版 （高级字体编辑）
+			4.Fontmin Github开源字体子集化工具
+		3）Color
 			1.ColorPix.exe（简洁的屏幕取色工具）
 			2.小丸拾色器（带萌化的屏幕拾色工具）
 			3.pkcolorpicker4（针对网页配色工作的工具，包括屏幕取色，色盘取色，色混合等）
-		5）QR Code
-			1.Chrome（推荐复制名字，然后到商店上安装；需要手动安装的，先下载，拖动插件到插件管理页面完成安装）
+		4）QR Code（文件夹已删除，只保留此处名称列表方便查找）
+			1.Chrome（推荐复制名字，然后到商店上安装）
 				1）Extension QuickMark QR Code Extension（QR Code图片读取解码）
 				2）离线可用
 					1.Anything to QRcode （扩展，离线生成页面地址QR码）
@@ -60,6 +60,15 @@
 				2）QReader for Firefox 0.420111230
 		6）other
 			1.MapKeyboard 键盘键位映射，配合Vim、Sublime Text等编辑器使用，提高按键效率
+		7）mobi处理
+			1.mobiperl-0.0.43_Win32
+		8）教程创建
+			1.Markdown
+				1、Typora
+			2.keycastow 案件敲击情况显示
+		9）运行环境
+			1.jdk
+			2.python
 
 
 资料 pan.baidu.com/s/1eQFz84a 密码: 7pdm
